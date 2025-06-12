@@ -1,4 +1,4 @@
-'use client'
+'use client';
 import React from 'react'
 import { Meteors } from "@/components/ui/meteors"; 
 function contact() {
