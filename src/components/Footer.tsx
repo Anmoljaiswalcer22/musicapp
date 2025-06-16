@@ -9,7 +9,7 @@ const Footer = () => {
         
         {/* Brand / About Section */}
         <div className="flex-1">
-          <h2 className="text-2xl font-bold mb-3">🎵 TuneFlow</h2>
+          <h2 className="text-2xl font-bold mb-3">TuneFlow</h2>
           <p className="text-gray-400">
             Your go-to destination for streaming good vibes. Explore trending tracks, discover new artists, and vibe out with the music you love.
           </p>
@@ -17,7 +17,7 @@ const Footer = () => {
 
         {/* Contact Us Section */}
         <div className="flex-1">
-          <h2 className="text-xl font-semibold mb-4">📬 Contact Us</h2>
+          <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
           <ul className="space-y-2 text-gray-300">
             <li>
               📧 Email:{" "}
@@ -36,7 +36,7 @@ const Footer = () => {
 
         {/* Social Links (Optional) */}
         <div className="flex-1">
-          <h2 className="text-xl font-semibold mb-4">🌐 Follow Us</h2>
+          <h2 className="text-xl font-semibold mb-4">Follow Us</h2>
           <div className="flex gap-4">
             <a href="#" className="hover:text-pink-500">Instagram</a>
             <a href="#" className="hover:text-blue-400">Twitter</a>
