@@ -18,7 +18,7 @@
       </Link>
 
       <MenuItem setActive={setActive} active={active} item="Our Courses">
-            <div className="flex flex-col space-y-4 text-sm">
+            <div className="flex flex-col space-y-4 text-sm text-white">
               <HoveredLink href="./courses">All courses</HoveredLink>
               <HoveredLink href="/interface-design">Basic Music Theory</HoveredLink>
               <HoveredLink href="/seo">Advanced Composition</HoveredLink>

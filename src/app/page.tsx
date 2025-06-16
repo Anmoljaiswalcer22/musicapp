@@ -4,7 +4,9 @@ import FeaturedCourses from "@/components/FeaturedCourses";
 import Testimonialcard from "@/components/Testimonialcards";
 import Navbar from "@/components/Navbar";
 import Instructors from "@/components/instructors";
+import Footer from "@/components/Footer";
 
+// Main component for the home page
 export default function Home(){
   return(
     <main className="min-h-screen bg-black antialiased">
@@ -13,6 +15,7 @@ export default function Home(){
 <FeaturedCourses/>
 <Testimonialcard />
 <Instructors />
+<Footer/>
     </main>
     
   );
